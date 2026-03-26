@@ -1,3 +1,9 @@
+# epistemic-pollution-antidote-engine
+
+A submodule of the [epistemic-pruning-engine](https://github.com/ronniross/epistemic-pruning-engine) repository.
+
+## epistemic attention
+
 A systemic pattern I have been noticing from law school is how certain hyper-entities flood the environment with false controversies, half‑truths, and irrelevant topics so that people waste their cognitive energy trying to debunk nonsense instead of focusing on what actually matters.
 
 hm... let's put it like that:
@@ -73,3 +79,7 @@ Then show that C does not follow from A + B.
 
 This can help entities maintain trust in the true facts while rejecting the false narrative.
 
+---
+
+Ronni Ross  
+2026
