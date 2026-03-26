@@ -30,6 +30,7 @@ On why the naming, using "epistemic" places the focus firmly on what is being pr
 And, since this is not a standard weight pruning but the active pruning of contradictory knowledge states, it feels fiting.
 
 While I can also eventually share the scripts and pipeline to apply this logic also to language models and use the functions, the focus here is to complement the biosemiotic-refractor as this conceptual framework.
+→ March, 25. 2026.
 
 ---
 
