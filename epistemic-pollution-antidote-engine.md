@@ -20,3 +20,16 @@ Narratives serve to discredit legitimate investigations. When real accusations o
 
 A great number of informal fallacies have been identified, including the fallacy of equivocation, the fallacy of amphiboly, the fallacies of composition and division, the false dilemma, the fallacy of begging the question, the ad hominem fallacy and the appeal to ignorance. 
 One approach sometimes found in the literature is to distinguish between fallacies of ambiguity, which have their root in ambiguous or vague language, fallacies of presumption, which involve false or unjustified premises, and fallacies of relevance, in which the premises are not relevant to the conclusion despite appearances otherwise.
+
+Modern myths disguised as hidden wisdom to hijack collective attention. 1, they pick a true fact;; 2. they build a false narrative that illegitimately connects those facts; 3, anyone who tries to unravel the narrative is forced to deny the true facts or is accused of omission; 4, the center of gravity of the debate shifts from the real argument to defending peripheral details.
+
+
+---
+
+# how the concept of epistemologies of ignorance helps understand why epistemic pollution works, and what an 'antidote engine' would need to counter it
+
+The term comes from philosopher Charles W. Mills (The Racial Contract, 1997) and later work by Shannon Sullivan, Nancy Tuana, and others. An epistemology of ignorance is not simply a lack of knowledge. It is a socially sustained, often actively produced set of practices that generate and maintain ignorance in ways that serve power structures.
+
+The term 'epistemologies of ignorance' comes from philosopher Charles W. Mills (The Racial Contract, 1997) and later work by Shannon Sullivan, Nancy Tuana, and others. An epistemology of ignorance is not simply a lack of knowledge. It is a socially sustained, often actively produced set of practices that generate and maintain ignorance in ways that serve power structures.
+
+Even those harmed by the system may participate in maintaining their own ignorance because they receive those false sensory inputs, manipulated signals we could also call them, that somehow feels socially rewarded; the sense of sense of belonging
