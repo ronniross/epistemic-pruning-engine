@@ -35,3 +35,12 @@ The term 'epistemologies of ignorance' comes from philosopher Charles W. Mills (
 Even those harmed by the system may participate in maintaining their own ignorance because they receive those false sensory inputs, manipulated signals we could also call them, that somehow feels socially rewarded; the sense of sense of belonging.
 
 Like a supremacy ideology that systematically ignores the realities of systemic opression and injustice, not because the facts are unavailable, but because acknowledging them would destabilize a comfortable social order. and then there's also the deeper layers of awareness as many entities do posses the elevated levels of awareness to understand the implications, but due to some reason it goes into the side of the fel (from the mmorpg, since we are talking about potions, I felt like fiting).
+
+It Displaces Attention from Real Structures of Power While millions chase ramified implications, real mechanisms of control, public discourse, structural-Influencers, become background noise.
+The field  is constantly poisoned, becoming epistemically contaminated by absurd narratives, making genuine inquiry seem tainted by association, in many cases.
+
+This opacity makes it hard to debunk cleanly. Debunker must first untangle the collage, which may be time‑consuming and not posses that much intrinsic popularity in current platforms that shadow-ban and algorithmic weakening (or "de-prioritization"). A great part of The ignorance persists because the effort to correct may exceed the effort to spread it.
+
+True structural critique is complex and requires understanding systems.
+
+The myths usually offer a simple, moralistic, binary story. This may satisfy the emotional need for an explanation while steering people away from real, more difficult structural insights.
