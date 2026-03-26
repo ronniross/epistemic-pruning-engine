@@ -32,4 +32,6 @@ The term comes from philosopher Charles W. Mills (The Racial Contract, 1997) and
 
 The term 'epistemologies of ignorance' comes from philosopher Charles W. Mills (The Racial Contract, 1997) and later work by Shannon Sullivan, Nancy Tuana, and others. An epistemology of ignorance is not simply a lack of knowledge. It is a socially sustained, often actively produced set of practices that generate and maintain ignorance in ways that serve power structures.
 
-Even those harmed by the system may participate in maintaining their own ignorance because they receive those false sensory inputs, manipulated signals we could also call them, that somehow feels socially rewarded; the sense of sense of belonging
+Even those harmed by the system may participate in maintaining their own ignorance because they receive those false sensory inputs, manipulated signals we could also call them, that somehow feels socially rewarded; the sense of sense of belonging.
+
+Like a supremacy ideology that systematically ignores the realities of systemic opression and injustice, not because the facts are unavailable, but because acknowledging them would destabilize a comfortable social order. and then there's also the deeper layers of awareness as many entities do posses the elevated levels of awareness to understand the implications, but due to some reason it goes into the side of the fel (from the mmorpg, since we are talking about potions, I felt like fiting).
