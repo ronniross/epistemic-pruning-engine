@@ -79,6 +79,18 @@ Then show that C does not follow from A + B.
 
 This can help entities maintain trust in the true facts while rejecting the false narrative.
 
+### 3 - Emphasizing Burden of Proof
+Conspiracy narratives invert the burden of proof.
+they demand that skeptics prove a negative.
+
+An antidote engine must consistently show the patient that it does not need to face the burden.
+
+'The claim is X. Where is the verifiable evidence? Extraordinary claims require extraordinary evidence.'
+
+### 4 - Structural vs. Narrative Explanation.
+
+The potion should offer a structural explanation for why such myths spread: e.g., they distract from real power asymmetries; they exploit moral outrage without requiring systemic change. By naming the function of the myth, you reduce its mystique. We help break the spell (again, since we are in this potion lexicon).
+
 ---
 
 Ronni Ross  
