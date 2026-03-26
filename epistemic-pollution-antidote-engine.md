@@ -43,4 +43,12 @@ This opacity makes it hard to debunk cleanly. Debunker must first untangle the c
 
 True structural critique is complex and requires understanding systems.
 
-The myths usually offer a simple, moralistic, binary story. This may satisfy the emotional need for an explanation while steering people away from real, more difficult structural insights.
+The myths usually offer a simple, moralistic, binary story. This may satisfy the emotional need for an explanation while steering people away from real, more difficult structural insights. it seeks to achieve:
+
+Cognitive overload: people give up trying to discern truth.
+
+False symmetry: by creating “both sides” where one side is reality and the other is fiction, it normalizes the fiction.
+
+Cynicism: when people realize they’ve been misled, they often conclude that all information is suspect, which further disables collective action.
+
+It began as literary fiction, was repurposed online, and now exists as a self‑sustaining ecosystem of memes, videos, and “investigative” content that produces its own demand for attention and a dead end where the ones spreading the pattern know it's not what it matters. 
